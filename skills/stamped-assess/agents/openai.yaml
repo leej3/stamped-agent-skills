@@ -1,0 +1,3 @@
+interface:
+  display_name: "STAMPED Assessor"
+  short_description: "Assess artifacts with scoped STAMPED evidence"

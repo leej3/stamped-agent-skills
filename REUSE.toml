@@ -1,0 +1,9 @@
+version = 1
+[[annotations]]
+path = ["tools/**", "pixi.*", "apm.yml", ".github/**", ".pre-commit-config.yaml", ".gitignore"]
+SPDX-FileCopyrightText = "2026 STAMPED assessment contributors"
+SPDX-License-Identifier = "MIT"
+[[annotations]]
+path = ["README.md", "AGENTS.md", "skills/stamped-assess/**"]
+SPDX-FileCopyrightText = "2026 STAMPED assessment contributors"
+SPDX-License-Identifier = "CC-BY-4.0"

@@ -1,0 +1,6 @@
+name: stamped-agent-skills
+version: "0.1.0"
+description: Evidence-based STAMPED assessment of research and digital objects.
+type: skill
+includes:
+  - skills

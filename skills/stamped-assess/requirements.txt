@@ -1,0 +1,1 @@
+stamped-assessment @ git+https://github.com/stamped-principles/stamped-skills-assessment.git@e367080f40e5f99e9cad31e885c9549d37e21b42

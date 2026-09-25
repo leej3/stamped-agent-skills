@@ -1,0 +1,17 @@
+[workspace]
+name = "stamped-agent-skills"
+channels = ["conda-forge"]
+platforms = ["osx-arm64", "linux-64"]
+
+[dependencies]
+python = "3.12.*"
+
+[pypi-dependencies]
+apm-cli = "==0.31.0"
+pyyaml = ">=6,<7"
+pip-audit = ">=2.9,<3"
+pre-commit = ">=4,<5"
+
+[tasks]
+check-apm = "python tools/check_apm.py"
+audit-dependencies = "pip-audit"
